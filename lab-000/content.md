@@ -1,7 +1,7 @@
 # Hybrid Data Guard to Oracle Cloud Infrastructure Workshop
 ## Welcome
 
-This workshop lets you practice through the process Production Database on Premises and Disaster Recovery with DBaaS BM or VM shapes in Oracle Cloud Infrastructure
+
 
 ## Access the labs
 

@@ -1,5 +1,5 @@
 # Hybrid Data Guard to Oracle Cloud Infrastructure Workshop
-This workshop lets you practice through the process of moving an existing On-premises WebLogic application into to a Kubernetes cluster in the Oracle Public Cloud.
+
 
 ## Access the Labs Using Our Web Interface
 **[Click here](https://github.com/oracle/learning-library/tree/master/workshops/wls-oke)** to use our easy to navigate HTML format.
