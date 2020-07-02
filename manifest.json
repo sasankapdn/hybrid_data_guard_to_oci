@@ -2,7 +2,7 @@
     "tutorials": [
         
         {         
-            "title": "On-premises WebLogic to Oracle Container Engine for Kubernetes Workshop",
+            "title": "Hybrid Data Guard to Oracle Cloud Infrastructure Workshop",
             "description": "Introduction to the workshop",
             "partnumber": "Ennnnn_01",
             "publisheddate": "10/31/2019",
@@ -10,24 +10,24 @@
             "filename": "./lab-000/content.md"
         },
         {         
-            "title": "Lab 100: Pull the Docker image for the WebLogic and push to Oracle Cloud Infrastructure Registry (OCIR)",
-            "description": "The Oracle Cloud Infrastructure Registry to push the WebLogic Server Docker Image",
+            "title": "Lab 100: Topic 1",
+            "description": "Topic 1",
             "partnumber": "Ennnnn_01",
             "publisheddate": "10/31/2019",
             "contentid": "12nnnn",
             "filename": "./lab-100/content.md"
         },
         {         
-            "title": "Lab 200: Create Oracle Container Engine for Kubernetes (OKE) on Oracle Cloud Infrastructure (OCI)",
-            "description": "Use OKE to build, deploy, and manage cloud-native applications",
+            "title": "Lab 200: Topic 2",
+            "description": "Topic 2",
             "partnumber": "Ennnnn_01",
             "publisheddate": "10/31/2019",
             "contentid": "12nnnn",
             "filename": "./lab-200/content.md"
         },
         {         
-            "title": "Lab 300: Prepare the WebLogic Kubernetes Operator environment",
-            "description": "How to run WebLogic clusters on the Oracle Cloud Infrastructure Container Engine for Kubernetes",
+            "title": "Lab 300: Topic 3",
+            "description": "Topic 3",
             "partnumber": "Ennnnn_01",
             "publisheddate": "10/31/2019",
             "contentid": "12nnnn",

@@ -1,7 +1,7 @@
-# On-premises WebLogic Server to Oracle Container Engine for Kubernetes (OKE)
+# Hybrid Data Guard to Oracle Cloud Infrastructure Workshop
 ## Welcome
 
-This workshop lets you practice through the process of moving an existing On-premises WebLogic application into to a Kubernetes cluster in the Oracle Public Cloud.
+This workshop lets you practice through the process Production Database on Premises and Disaster Recovery with DBaaS BM or VM shapes in Oracle Cloud Infrastructure
 
 ## Access the labs
 
@@ -9,7 +9,7 @@ Use the Contents Menu to access the next lab. For example, to proceed to Lab 100
 
 Close the menu by clicking the **X**.
 
-![](./images/Menu.png " ") 
+
 
 If the menu is not diplayed, you can open by clicking the menu button  
 ![Menu icon](./images/MenuButton.png).

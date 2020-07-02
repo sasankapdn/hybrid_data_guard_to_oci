@@ -1,4 +1,4 @@
-# Welcome to the On-premises WebLogic to Oracle Container Engine for Kubernetes Workshop
+# Hybrid Data Guard to Oracle Cloud Infrastructure Workshop
 This workshop lets you practice through the process of moving an existing On-premises WebLogic application into to a Kubernetes cluster in the Oracle Public Cloud.
 
 ## Access the Labs Using Our Web Interface
@@ -6,10 +6,7 @@ This workshop lets you practice through the process of moving an existing On-pre
 
 ## Access the Labs on the Repo
 Alternatively, you can follow the labs on this repo:
-- [On-premises WebLogic to Oracle Container Engine for Kubernetes Workshop](./lab-000/content.md)
-- [Pull the Docker image for the WebLogic and push to Oracle Cloud Infrastructure Registry (OCIR)](./lab-100/content.md)
-- [Create Oracle Container Engine for Kubernetes (OKE) on Oracle Cloud Infrastructure (OCI)](./lab-100/content.md)
-- [Prepare the WebLogic Kubernetes Operator environment](./lab-100/content.md)
+
 
 
 ## Oracle Cloud Account
